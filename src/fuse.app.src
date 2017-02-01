@@ -10,7 +10,7 @@
 	]},
 	{mod, {fuse_app, []}},
 	{env, [
-	   {monitor, true}
+	   {monitor, false}
 	]},
 	
 	{maintainers, ["Jesper Louis Andersen"]},
